@@ -21,7 +21,7 @@ module.exports = () => {
 
       new HtmlWebpackPlugin({
         template: './index.html',
-        title: 'Contact Cards'
+        title: 'Tricky Text Editor'
       }),
 
       new InjectManifest({
