@@ -9,13 +9,14 @@
     "server": "cd server nodemon server.js --ignore client",
     "build": "cd client && npm run build",
     "install": "cd client && npm install",
-    "client": "cd client && npm start"
+    "client": "cd client && npm start",
+    "postinstall": "cd client && npm run build"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "engines": {
-    "node": "14.x"
+    "node": "14.17.0"
   },
   "dependencies": {
     "express": "^4.17.1",
@@ -29,3 +30,4 @@
     "webpack-cli": "^5.0.2"
   }
 }
+
