@@ -14,9 +14,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": "14.x"
+  },
   "dependencies": {
     "express": "^4.17.1",
-    "if-env": "^1.0.4"
+    "if-env": "^1.0.4",
+    "webpack": "^5.64.0"
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
