@@ -1,5 +1,5 @@
 # Tricky Text Editor
-![Tricky-Text-Editor Picture](https://github.com/jamesxiong45/Tricky-Text-Editor/blob/master/Assets/Capture.JPG)
+![Tricky-Text-Editor Picture](https://github.com/jamesxiong45/Tricky-Text-Editor/blob/master/Tricky-Text-Editor%20Picture.JPG)
 
 
 
